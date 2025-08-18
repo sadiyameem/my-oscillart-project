@@ -1,0 +1,24 @@
+#canvas {
+    border: 5px solid black;
+    height: 500px;
+    width: 900px;
+    margin-bottom: 2em;
+}
+#container {
+    display: flex;
+    height: 100vh;
+    justify-content: center; 
+    align-items: center;     
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;  
+}
+
+h1 {
+    color: #6B5B95; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+body {
+    background-color: #f0f0f0;
+}
