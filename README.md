@@ -10,7 +10,7 @@ Adjustable wave color with a color picker
 Volume control slider  
 Record wave and audio as a video
 
-Tools
+Tools that were used to make all of this happen are 
 HTML
 CSS
 Javascript
