@@ -8,7 +8,12 @@ Features
 Play musical notes  
 Adjustable wave color with a color picker  
 Volume control slider  
-Record wave and audio as a video  
+Record wave and audio as a video
+
+Tools
+HTML
+CSS
+Javascript
 
 Motivation
 I created this project because I wanted to try something new, and this project seemed interesting and fun.
